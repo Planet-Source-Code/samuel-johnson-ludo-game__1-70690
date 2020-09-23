@@ -1,0 +1,62 @@
+                                      *LUDO INSTRUCTION.*
+
+OBJECTIVE:
+To be the first to get all your pieces 'home'.
+
+OBJECTS:
+    * 4 pieces of each of diffrent colours (for a total of 16 pieces)
+    * 1 or 2 dice. 
+
+NUMBER OF PLAYERS:
+2, 3 or 4.
+
+RULES:
+The following rules follow  the most popular variations of the game in Nigeria.
+
+Each player places their pieces in 'prison' (or call it 'work' if you prefer).
+
+A player is choosen to start first
+From there, the players play in a clockwise order.
+
+The rules for each player are as follows:
+
+    * You must roll a 6 to get a piece 'out of prison' to the colored box right outside of their prison. This means that you can not get out of prison until a 6 is rolled, and rolling a 6 gets you just outside of the prison walls.
+    * After getting out of prison, move in a clockwise direction around the board until you come back to your 'colored path'.
+    * Each time the dice is rolled, move any one of your 'out-of-prison' pieces that number of spaces in a clockwise direction.
+    * If you land on a square containing another player's piece, the other player's piece goes back to prison and your piece goes 'Home'.
+    * Each time the dice is rolled, the EXACT number of spaces is moved. So for instance, if you are on your 'colored path towards home', you can not use a higher number to get home. So, if you need 3 spaces to get home, you need to roll a 3, or a 2 and a 1; rolling a 4, 5, or 6 doesn't allow you to move this particular piece home, but of course, you can move one of your other pieces that is out of prison. 
+
+   * 2 dice is used, in which case:
+          o You only need a 6 on one of the 2 dices rolled to get out of 'prison'.
+          o Rolling a double 6's is an added bonus allowing the player another opportunity to roll the dices again for a higher figure. 
+    * The 'Peck and home' method is used in which case landing on another player's piece lets you go directly home. This makes the game much quicker.
+  
+The first player that gets ALL their pieces home first, WINS. The game can end there, or the other players can continue until most of them have all their pieces at home.
+
+In this game (4 players) the players can decide to quit (by clicking on the quit button) after a player has taken all his/her pieces home and s/he becomes the winner, otherwise the game continues  wirh the remaining 3 players,and the next to get all pieces home becomes the 2nd, and the next becomes the 3rd.
+The last player that failed to get all pieces home becomes the 4th and s/he looses out of the competition.
+The 3 players start all over again and play, until we have the first 2 players to get all pieces home, the player that failed to get all pieces home loose out of the competition as the 3rd. Leaving the 2  Winners to compete for the crown;
+of Course the winner out of this two becomes the overall Champion
+
+Game Tips:
+
+1. To roll the dice click twice(not doubleclick) on the button with the picture of a hand.
+2. To move a seed click on the seed you want to move.
+3. Click on the die you want to presently use to move a seed,otherwise the first die is automatically used (Except if it is a 6) 
+4. Players can decide to pause game or skip a player by transfering Dice slate to the next player.
+5.Enjoy playing personally with the computer by choosing 3 computer players and one human player.
+ 
+NB: When playing with the computer,sometimes (very rare) the computer moves just a piece instead of moving two pieces. if this occur the transfer slate button should be clicked.  
+Under normal condition a human player may not be able to transfer slate (or skip) when it is computer's turn, simply because the computer is too fast to be skipped, but try if you can (Hint:Pause game before transfering slate).
+
+ATTENTION!!!
+If while playing this game it behaves unexpectedly (A bug) or it displayes an error message please send a description of what you were doing, the number of players playing and the number of seeds on the field  for each player, a description of the message or behaviour to :
+
+Email: stormsamany@yahoo.co.uk
+Phone: +234 808 574 6108
+
+Any comment or suggestions for improvement which might insinuate an addition or subtraction to/from the game please send to the above address as they are all welcomed.
+Also if you may want to contact the programmer for development of any VB project or the likes don't hesitate to do so through the above contact.
+ 
+Thanks. 
+Samuel Johnson .A.C

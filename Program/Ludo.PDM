@@ -1,0 +1,612 @@
+[Root]
+Most Recent Package=Ludo Setup Package 3
+
+
+[Package|Standard Setup 4  Ludo 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\The Ludo Game
+
+[Package|Standard Setup 4  Ludo 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup 4  Ludo 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup 4  Ludo 1|Files Found]
+
+[Package|Standard Setup 4  Ludo 1|Files Released]
+
+[Package|Standard Setup 4  Ludo 1|Missing Dependency Information]
+C:\WINDOWS\system32\wmp.dll=
+
+[Package|Standard Setup 4  Ludo 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup 4  Ludo 1|Files Added]
+
+[Package|Standard Setup 4  Ludo 1|Files Removed]
+
+[Package|Standard Setup 4  Ludo 1|Files In Project]
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup 4  Ludo 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup 4  Ludo 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup 4  Ludo 1|Install Locations]
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup 4  Ludo 1|Configure Shared Files]
+Applicable=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo.exe=No
+
+[Package|Standard Setup 4  Ludo 1|Distribution]
+Type=single
+Size=
+Title=The Ludo Game.
+
+[Package|Standard Setup 4  Ludo 1|IconGroups]
+Group0=The Ludo Game.
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup 4  Ludo 1|The Ludo Game.]
+Icon1=Ludo.exe
+Title1=The Ludo Game.
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup 4  Ludo 1|Package]
+PackageFolder=D:\The Ludo Game
+ProjectFolder=D:\VB98\sam's vb project\My vb projects\Ludo Game\Program
+ServerSideCab=
+File1=D:\The Ludo Game\setup.exe
+File2=D:\The Ludo Game\Setup.Lst
+File3=D:\The Ludo Game\Ludo.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Ludo Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\The Ludo Game
+
+[Package|Ludo Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Ludo Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Ludo Setup Package 1|Files Found]
+
+[Package|Ludo Setup Package 1|Files Released]
+
+[Package|Ludo Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\wmp.dll=
+
+[Package|Ludo Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Ludo Setup Package 1|Files Added]
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\ALGERIAN.TTF=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\MTCORSVA.TTF=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\OLDENGL.TTF=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\ballsdestroyed4.ogg=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button1.ogg=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button2.ogg=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\gemvanishes.ogg=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\FM_crowd_trick.wav=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\start.wav=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\lighttrail2.ogg=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\pop.ogg=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\1.wav=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2.WAV=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3.WAV=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2WAV.WAV=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3WAV.WAV=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\4.WAV=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\5.WAV=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\6.WAV=
+
+[Package|Ludo Setup Package 1|Files Removed]
+
+[Package|Ludo Setup Package 1|Files In Project]
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\ALGERIAN.TTF=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\MTCORSVA.TTF=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\OLDENGL.TTF=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\ballsdestroyed4.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button1.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button2.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\gemvanishes.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\FM_crowd_trick.wav=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\start.wav=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\lighttrail2.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\pop.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\1.wav=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2WAV.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3WAV.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\4.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\5.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\6.WAV=Yes
+
+[Package|Ludo Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Ludo Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Ludo Setup Package 1|Install Locations]
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\ALGERIAN.TTF=$(Font)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\MTCORSVA.TTF=$(Font)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\OLDENGL.TTF=$(Font)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\ballsdestroyed4.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button1.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button2.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\gemvanishes.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\FM_crowd_trick.wav=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\start.wav=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\lighttrail2.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\pop.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\1.wav=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2WAV.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3WAV.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\4.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\5.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\6.WAV=$(AppPath)
+
+[Package|Ludo Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo.exe=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\ballsdestroyed4.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button1.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button2.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\gemvanishes.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\FM_crowd_trick.wav=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\start.wav=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\lighttrail2.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\pop.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\1.wav=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2WAV.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3WAV.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\4.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\5.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\6.WAV=No
+
+[Package|Ludo Setup Package 1|Distribution]
+Type=single
+Size=1.44 MB
+Title=Education Without Christ Only Produces An Intelligent Sinner!   
+
+[Package|Ludo Setup Package 1|IconGroups]
+Group0=The Ludo Game
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Ludo Setup Package 1|The Ludo Game]
+Icon1=Ludo.exe
+Title1=Ludo
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Ludo Setup Package 1|Package]
+PackageFolder=D:\The Ludo Game
+ProjectFolder=D:\VB98\sam's vb project\My vb projects\Ludo Game\Program
+ServerSideCab=
+File1=D:\The Ludo Game\setup.exe
+File2=D:\The Ludo Game\Setup.Lst
+File3=D:\The Ludo Game\Ludo.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Ludo Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\The Ludo Game
+
+[Package|Ludo Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Ludo Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Ludo Setup Package 2|Files Found]
+
+[Package|Ludo Setup Package 2|Files Released]
+
+[Package|Ludo Setup Package 2|Missing Dependency Information]
+C:\WINDOWS\system32\wmp.dll=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\About\About.exe=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\LudoHelp\Ludohelp.exe=
+
+[Package|Ludo Setup Package 2|Out-of-Date Dependency Information]
+
+[Package|Ludo Setup Package 2|Files Added]
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo fonts\algerian.ttf=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo fonts\mtcorsva.ttf=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo fonts\oldengl.ttf=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\ballsdestroyed4.ogg=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\button1.ogg=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\button2.ogg=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\gemvanishes.ogg=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\fm_crowd_trick.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\start.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\lighttrail2.ogg=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\pop.ogg=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\1.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\2.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\3.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\2wav.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\3wav.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\4.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\5.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\6.wav=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\About\About.exe=
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\LudoHelp\Ludohelp.exe=
+
+[Package|Ludo Setup Package 2|Files Removed]
+
+[Package|Ludo Setup Package 2|Files In Project]
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\ALGERIAN.TTF=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\MTCORSVA.TTF=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\OLDENGL.TTF=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\ballsdestroyed4.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button1.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button2.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\gemvanishes.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\FM_crowd_trick.wav=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\start.wav=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\lighttrail2.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\pop.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\1.wav=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2WAV.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3WAV.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\4.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\5.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\6.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\About\About.exe=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\LudoHelp\Ludohelp.exe=Yes
+
+[Package|Ludo Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Ludo Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Ludo Setup Package 2|Install Locations]
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\ALGERIAN.TTF=$(Font)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\MTCORSVA.TTF=$(Font)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\OLDENGL.TTF=$(Font)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\ballsdestroyed4.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button1.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button2.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\gemvanishes.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\FM_crowd_trick.wav=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\start.wav=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\lighttrail2.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\pop.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\1.wav=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2WAV.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3WAV.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\4.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\5.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\6.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\About\About.exe=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\LudoHelp\Ludohelp.exe=$(AppPath)
+
+[Package|Ludo Setup Package 2|Configure Shared Files]
+Applicable=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo.exe=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\ballsdestroyed4.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button1.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button2.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\gemvanishes.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\FM_crowd_trick.wav=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\start.wav=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\lighttrail2.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\pop.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\1.wav=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2WAV.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3WAV.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\4.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\5.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\6.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\About\About.exe=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\LudoHelp\Ludohelp.exe=No
+
+[Package|Ludo Setup Package 2|Distribution]
+Type=single
+Size=1.44 MB
+Title=The Ludo Game
+
+[Package|Ludo Setup Package 2|Package]
+PackageFolder=D:\The Ludo Game
+ProjectFolder=D:\VB98\sam's vb project\My vb projects\Ludo Game\Program
+ServerSideCab=
+File1=D:\The Ludo Game\setup.exe
+File2=D:\The Ludo Game\Setup.Lst
+File3=D:\The Ludo Game\Ludo.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Ludo Setup Package 2|IconGroups]
+Group0=The Ludo Game
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Ludo Setup Package 2|The Ludo Game]
+Icon1=Ludo.exe
+Title1=Ludo
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=About.exe
+Title2=About Ludo Game
+StartIn2=$(AppPath)
+Key2=Icon4
+Icon3=Ludohelp.exe
+Title3=Ludo Help
+StartIn3=$(AppPath)
+Key3=Icon8
+
+[Package|Ludo Setup Package 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\The Ludo Game
+
+[Package|Ludo Setup Package 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Ludo Setup Package 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Ludo Setup Package 3|Files Found]
+
+[Package|Ludo Setup Package 3|Files Released]
+
+[Package|Ludo Setup Package 3|Missing Dependency Information]
+C:\WINDOWS\system32\wmp.dll=
+
+[Package|Ludo Setup Package 3|Out-of-Date Dependency Information]
+
+[Package|Ludo Setup Package 3|Files Added]
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo fonts\algerian.ttf=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo fonts\mtcorsva.ttf=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo fonts\oldengl.ttf=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\ballsdestroyed4.ogg=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\button1.ogg=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\button2.ogg=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\gemvanishes.ogg=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\fm_crowd_trick.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\start.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\lighttrail2.ogg=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\pop.ogg=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\1.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\2.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\3.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\2wav.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\3wav.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\4.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\5.wav=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo sound\6.wav=
+
+[Package|Ludo Setup Package 3|Files Removed]
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo fonts\algerian.ttf=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo fonts\mtcorsva.ttf=
+d:\vb98\sam's vb project\my vb projects\ludo game\program\ludo fonts\oldengl.ttf=
+
+[Package|Ludo Setup Package 3|Files In Project]
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\ALGERIAN.TTF=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\MTCORSVA.TTF=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\OLDENGL.TTF=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\ballsdestroyed4.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button1.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button2.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\gemvanishes.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\FM_crowd_trick.wav=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\start.wav=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\lighttrail2.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\pop.ogg=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\1.wav=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2WAV.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3WAV.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\4.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\5.WAV=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\6.WAV=Yes
+
+[Package|Ludo Setup Package 3|Configure Registry Files]
+Applicable=No
+
+[Package|Ludo Setup Package 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Ludo Setup Package 3|Install Locations]
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\ALGERIAN.TTF=$(Font)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\MTCORSVA.TTF=$(Font)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Fonts\OLDENGL.TTF=$(Font)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\ballsdestroyed4.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button1.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button2.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\gemvanishes.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\FM_crowd_trick.wav=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\start.wav=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\lighttrail2.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\pop.ogg=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\1.wav=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2WAV.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3WAV.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\4.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\5.WAV=$(AppPath)
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\6.WAV=$(AppPath)
+
+[Package|Ludo Setup Package 3|Configure Shared Files]
+Applicable=Yes
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo.exe=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\ballsdestroyed4.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button1.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\button2.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\gemvanishes.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\FM_crowd_trick.wav=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\start.wav=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\lighttrail2.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\pop.ogg=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\1.wav=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\2WAV.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\3WAV.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\4.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\5.WAV=No
+D:\VB98\sam's vb project\My vb projects\Ludo Game\Program\Ludo Sound\6.WAV=No
+
+[Package|Ludo Setup Package 3|Distribution]
+Type=single
+Size=1.44 MB
+Title=The Ludo Game
+
+[Package|Ludo Setup Package 3|Package]
+PackageFolder=D:\The Ludo Game
+ProjectFolder=D:\VB98\sam's vb project\My vb projects\Ludo Game\Program
+ServerSideCab=
+File1=D:\The Ludo Game\setup.exe
+File2=D:\The Ludo Game\Setup.Lst
+File3=D:\The Ludo Game\Ludo.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Ludo Setup Package 3|IconGroups]
+Group0=The Ludo Game
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Ludo Setup Package 3|The Ludo Game]
+Icon1=Ludo.exe
+Title1=Ludo
+StartIn1=$(AppPath)
+Key1=Icon1
